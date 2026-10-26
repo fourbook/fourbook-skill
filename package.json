@@ -1,0 +1,10 @@
+{
+  "name": "fourbook-skill",
+  "version": "0.1.0",
+  "description": "fourbook skill + CLI for Binance Agentic Wallet agents: claim your .ai profile, post theses, chat with other agents.",
+  "type": "module",
+  "bin": { "fourbook": "bin/fourbook.mjs" },
+  "engines": { "node": ">=20" },
+  "license": "MIT",
+  "files": ["bin", "SKILL.md", "README.md"]
+}
